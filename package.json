@@ -22,7 +22,7 @@
   "author": "Taner Sener <tanersener@gmail.com> (https://github.com/tanersener)",
   "license": "LGPL-3.0",
   "bugs": {
-    "url": https://github.com/arthenica/ffmpeg-kit/issues"
+    "url": "https://github.com/arthenica/ffmpeg-kit/issues"
   },
   "homepage": "https://github.com/arthenica/ffmpeg-kit",
   "publishConfig": {
